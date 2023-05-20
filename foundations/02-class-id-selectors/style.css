@@ -1,0 +1,19 @@
+.bg-highlight {
+    background-color: hsl(0, 62%, 79%);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.bg-highlight.third {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
